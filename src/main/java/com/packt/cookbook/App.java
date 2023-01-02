@@ -10,6 +10,7 @@ public class App
 {
     public static void main( String[] args )
     {
+        // feature 1
        Logger logger = LoggerFactory.getLogger(App.class);
        logger.info("Hello World");
     }
